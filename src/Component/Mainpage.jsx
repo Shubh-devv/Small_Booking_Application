@@ -28,7 +28,7 @@ const Mainpage = () => {
             title: 'Card 1',
             description: 'This is the description for card 1.',
             image: 'https://via.placeholder.com/150',
-            whatsappLink: 'https://wa.me/7905470224?text=Hello from Card 1',
+            whatsappLink: 'https://wa.me/7905340717?text=Hello from Card 1',
         },
         {
             title: 'Card 2',
@@ -62,8 +62,8 @@ const Mainpage = () => {
 <div className="bg-gradient-to-br from-purple-600 via-pink-500 to-red-500 px-4 py-[5vw] rounded-br-3xl rounded-bl-3xl shadow-lg">
     <div className="flex flex-col-reverse md:flex-row items-center md:space-x-4">
         <div className="flex-grow text-center md:text-left mt-4 md:mt-0">
-            <h2 className="text-white text-3xl font-bold lg:ml-60 mb-2 text-shadow">Dr. Sonam Gupta's,</h2>
-            <h3 className="text-yellow-300 text-xl lg:ml-60  text-shadow">Careteam</h3>
+            <h2 className="text-white text-3xl font-bold lg:ml-60 mb-2 text-shadow">Dr. Shubham Dubey,</h2>
+            <h3 className="text-yellow-300 text-xl lg:ml-60  text-shadow">Team Tech</h3>
             <h6 className="text-yellow-100 text-xl lg:ml-60 mb-4 text-shadow">
             A team of expert clinical dietitians, yoga coaches and psychologists.</h6>
             <div className="flex flex-col md:flex-row items-center md:space-x-4 mt-2 lg:ml-60">
